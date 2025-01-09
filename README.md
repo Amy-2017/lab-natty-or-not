@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Mensagem de Natal;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este é o meu primeiro vídeo utilizando as IAs. Como estamos no mês de dezembro, resolvi apresentar uma mensagem de Feliz Natal.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para a criação do texto;
+IA Generativa D-ID para a criação de avatar virtual e inclusão da voz.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o “ChatGPT” para criar uma linda mensagem de Natal inspirada no menino Jesus. Depois importei o texto gerado para o “D-ID” para criar um avatar virtual e voz sintetizada de homem mais velho, simpático, com pele clara, cabelos lisos, olhos escuros, vestido com uma camiseta vermelha e um gorro de Papai Noel.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo apresenta uma linda e sincera mensagem de Natal para todas as pessoas. Está disponível no link - https://studio.d-id.com/share?id=a4e5e0fb5d1effd3e55350ccfa32d47b
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi desafiador decidir qual IA Generativa utilizar, pois existem muitas opções. Eu nunca acessei aplicativos de IA, então, realmente tive que ir descobrindo as funcionalidades. Primeiro criei um avatar virtual mais artificial e depois, fui informando mais características e espero que tenha dado certo! Por fim, eu gostei muito da experiência.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
