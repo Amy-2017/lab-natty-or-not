@@ -1,6 +1,6 @@
 
 ```markdown
-# Título do Projeto Mensagem de Natal;)
+# Título do Projeto Mensagem de Natal
 
 ## 📒 Descrição
 Este é o meu primeiro vídeo utilizando as IAs. Como estamos no mês de dezembro, resolvi apresentar uma mensagem de Feliz Natal.
